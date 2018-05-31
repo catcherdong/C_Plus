@@ -1,1 +1,1 @@
-This is a project of pratice of C++
+This is a project praticing of C++
